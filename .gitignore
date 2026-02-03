@@ -1,0 +1,10 @@
+# arquivos gerados pelo script
+health_report.txt
+
+# cache do python
+__pycache__/
+*.pyc
+
+# ambiente virtual (se você criar depois)
+.venv/
+venv/
